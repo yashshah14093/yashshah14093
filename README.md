@@ -1,4 +1,20 @@
-### Hi there 👋
+<h1 align='center'>
+  Hi there 👋 I'm Yash Shah 👨‍💻
+</h1>
+
+<p align='center'>
+  Computer Science Undergraduate at IIIT Jabalpur.
+</p>
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/yashshah2025/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=yashshah14093&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 
 <!--
 **yashshah14093/yashshah14093** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
